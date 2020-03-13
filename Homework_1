@@ -7,7 +7,6 @@ class Assignment3Exception : public exception {
 
 };
 
-
 //a fidelity card class that records the number of points that a clietn will get for each payment
 //clasa Card Fidelitate ce inregistreaza numarul de puncte castigate de client de fiecare data cand efectueaza o plata
 class FidelityCard {
