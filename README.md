@@ -1,1 +1,1 @@
-# Proiecte la care am contribuit
+# Diverse teme realizate in cadrul facultatii
