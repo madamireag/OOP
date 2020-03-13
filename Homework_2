@@ -266,5 +266,4 @@ int main() {
 	Email::outDateEmail(&email);
 	Email::outDateEmail(&email1);
 	Email::outDateEmail(&email2);
-	
 }
